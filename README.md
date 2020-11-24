@@ -4,7 +4,7 @@
 i) Run "make" command on command line.
 ii) Run the Application by running "./shapeinterpolation" on command line.
 
--> The coordinates of images are present in images folder which can be stated in main.cpp for applying image interpolation on those images.
+-> The coordinates of images are present in txt files images folder which can be stated in main.cpp for applying image interpolation on those images.
 
 -> Use 'clear' button to reselect correspondences
 
